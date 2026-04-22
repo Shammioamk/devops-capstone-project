@@ -1,4 +1,5 @@
 # devops-capstone-project
+![Build Status](https://github.com/Shammioamk/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 This is the IBM DevOps Capstone project to develop and deploy a Customer Accounts microservice.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
